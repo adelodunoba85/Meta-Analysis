@@ -1,9 +1,9 @@
-Advanced Meta-Analysis in Python
-Overview
+# Advanced Meta-Analysis in Python
+## Overview
 
 This repository implements a full meta-analysis pipeline in Python for clinical and epidemiological research.
 
-The project demonstrates:
+## The project demonstrates:
 
 Fixed-effects model
 
@@ -19,13 +19,13 @@ Publication bias assessment (Funnel plot, Egger’s test)
 
 Forest plot visualization
 
-Statistical Framework
+## Statistical Framework
 
 Random-effects estimation follows the
 Rebecca DerSimonian –
 Nan Laird method (1986).
 
-Applications
+## Applications
 
 Clinical trials
 
@@ -35,7 +35,7 @@ AI model performance pooling
 
 Systematic reviews and evidence synthesis
 
-Key Outputs
+## Key Outputs
 
 Pooled effect size estimates
 
